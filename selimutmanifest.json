@@ -1,0 +1,58 @@
+{ 
+"name": "selimut kuning", 
+"short_name": "SaKa", 
+"start_url": "https://selimutkuning.blogspot.com/", 
+"display": "standalone", 
+"background_color": "#fff", 
+"theme_color": "#01579b", 
+"description": "selimutkuning adalah blog pribadi yang diolah dan dikelola oleh SaKa. Serta blog ini disarankan untuk pembaca yang mempunyai banyak waktu luang.", 
+"icons": [
+{
+ "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8s02It-NtlOMr2mZpw19PIv8VA9DHb28emuADCqPWPoHzMfdnK6a_x8bpXNA-yXNhlwvLVg496Ypgqr91u8iNGTTAtPl2bb5UFshq46u4V4qd0XPzI6wUvSzRQhSNt-JTdD3_bBuF4KTJyi84lCzlah80fgawUCTJ2JZYPVPe4JzanikrVyKwqk9VBDIG/s1600/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image/png",
+   "density": "0.75"
+}, {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNsIDS7kf5U7uJMdyO4B4abnIqNrUYnmG7_z4_E2ZcWOvAZY5ICH-LeOoLQ0hZRl-A2Td5XhPuG0eFpUKQNBlP0k_7zHLYHqzsjNYwTEOxqjBj6rAjmdp24kxt4XIbgP9_vVcG9kMl7c24hLieVZ066odDr6-acvnEFIw8AFHlb9lnRg6fOm8KX-tB6HNr/s1600/android-icon-48x48.png",
+   "sizes": "48x48",
+   "type": "image/png",
+   "density": "1.0"
+}, {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim41qAlPsSVq9u4vChAEPnOf9taZXMZSCelMkys8dPlrsyaHKE5_IYB3QF2LB_2x5cDBn3x0cgrm6IRL6o29pJ5v_yaEphTqYumkqSrMKP-CbF9hwYY-UGlXdqFuH9jRJtDwxMwuuJ0B5L78FXv1AO2JD5bqMYnPhFgtNR_d7kLhe4qst4UFA9BCGWYFvo/s1600/android-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image/png",
+   "density": "1.5"
+}, {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_r6-EhdBoWZHsFazYJbJrxxGFaJ9DKjkAX0Mcd48YaQtsLlOoqjGfVQayaAxEE0KiIfZHyH7QFUnUdcjRM_9BRcMQ6onaxG5453oRtOuGgkEDjrAGHz8HHq7Gg7caLbfXuwxV7jsBjbwRoIRoEfFjdKEdni8sm8lkNV7vrnDXQ6hT-LpkK4Keh7kZcZNM/s1600/android-icon-96x96.png",
+   "sizes": "96x96",
+   "type": "image/png",
+   "density": "2.0"
+}, {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsFBNArXklZsTpIPCMFPH-8amNku05IX9xcjiV664XcLAjM-8Puf7fOiwSzua380G6vJabIduXnkpDqCA1VJepB_dtJT325I27ghjg7DQ5ZzjGix6IiEseck-HVd87aVuYGbTu3z38KvVL0IKxP1UtRcG-RAIbodZXvKIOVmlEUwkYtsXxx4z9G73aTWh4/s1600/android-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image/png",
+   "density": "3.0"
+}, { 
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePhXnOGX-UErRGx-MGdTlmw-9joH7z414zLV9MipHa3yiVTY1Oi9IrYQO019GkcKCykrJdVR4H5k0EgxgB9j_ovMwZe4p87QurJGDXLL3YP4weo7ijK4S3PxvXSVKe4FQf4VTbQWi0xoFHUqvMIW1EqO5m7lIZKEGE7cWHCsua3XrLLzAX0e66jeQRYRO/s1600/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "density": "4.0"
+}, {
+		"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ26ztXZPm3ACObFIUV0Yq_QcxlJ9RJ4tPh38Mb2KNRAglt-CWRZAYh65nUqJVQv-Qd2Jt9R5mgtyhcLiFUGKbN8OaDVcG-ruNO90l3TOtNITrtFFqVXqLqvCnfi5G56JaMML_OTInD3YpJAoNz3ZTM2T4v-oeEW8SB9QGC23Chzzi5Y_hK5-88esa-qPP/s1600/apple-icon-180x180.png" 
+	"sizes": "180x180", 
+	"type": "image/png" 
+}, 	{
+	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKt4nZxS6gc4R8I1sTIl6RjuJvf-A9PYGXfln7x9iOdmOSZx3AgsCs9ncDoqRxPV37mxVFb7bzOncbTBhBdZFWheSpRnHlGzTGUNrknQbNxlqK5e-ohAsTWi-tbdcqng8LS7cn-IeQakL0r2ES6p-kziybrCJUDgmlauooo8XerD2h563Ph6C9lTfoIIkO/s1600/ms-icon-150x150.png" 
+	"sizes": "150x150", 
+	"type": "image/png"    
+}, { 
+	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUS_Jg3665ndtFszcoHu-StUh5Sq0I-NFoTd5Vsnz8No8Bam8B-5BKKvCBSjEYHmNjbhbIXb2WJS8EwEJ2k8XfXLp56Wp9jrboGyufbZ87IzGsGpb5csAiZRBW1wfRrTuld1Ll0yXq8f2uU773lfY8Nme6zvmFRWrMB4nMXge-ctYtmRjU4nUbdPGYEsQ/s1600/ms-icon-310x310.png"
+	"sizes": "310x310", 
+	"type": "image/png" 
+	}, { 
+	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs6uZCjYZw8HCauC7QJkwxaBj2sOg-q0IoJCZtoYHb7B7xp7De_PhQFq3I81l06uxdt7Be2usnlkqbdBJ_cyueVGcUoF-ZAgxMM1kJ7XA9y8GdQa5PceLfJoK_hwjlSWmMapQGrmjrMM-lGZtu09ZeIUJpFJ95Cj_zDOCsJmNPrCEJZUctOXwmgzyr2UGO/s1600/android-chrome-512x512.png"
+	"sizes": "512x512", 
+	"type": "image/png" 
+  }
+ ]
+}
